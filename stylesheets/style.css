@@ -19,6 +19,7 @@ nav {
   border-bottom: 1px solid rgba(103,106,123,0.2);
   background-color: #fff;
   position: fixed;
+  min-height: 10vh;
 }
 
 .slack-logo-nav {
@@ -29,6 +30,7 @@ nav {
 
 .slack-logo-nav img {
   width: 10vw;
+  min-width: 100px;
 }
 
 .nav-menu {
